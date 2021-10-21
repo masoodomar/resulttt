@@ -1,0 +1,44 @@
+
+.imgss{
+  position: absolute;
+  left: 200px;
+}
+.imgs{
+  position: absolute;
+  right: 200px;
+}
+.h1{
+font-size: 50px;
+text-shadow: 5px blue;
+text-decoration:underline;
+}
+.h11{
+  color: white;
+  margin-bottom:30px;
+  margin-left: 15px;
+}
+.submit{
+  color: #185ADB;
+}
+.aa{
+  text-decoration: none;
+}
+.form{
+  color: white;
+  margin-left: 20px;
+}
+
+div{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+.black{
+position:sticky;
+left: 20px;
+right: 20px;
+top: 20px;
+}
+body{
+  margin: 0px;
+}
